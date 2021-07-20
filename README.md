@@ -7,7 +7,7 @@
 <p align="left"> 
   O que eu diria sobre mim é que sou dedicado, aprendo fazendo e repetindo várias vezes.
   <br>
-  Pretendo me especializar em React com Next, Node e React Native.
+  Pretendo ser FullStack e me especializar em React, Next.js, Node e React Native.
   <br>
   Atualmente estudando os conteúdos da faculdade e por fora.
 </p>
