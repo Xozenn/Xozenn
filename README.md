@@ -1,6 +1,6 @@
 ## Olá, sou Petterson! <img src="https://i.imgur.com/EgZKCOb.png" width="30px" alt="message icon">
 
-<img src="https://i.imgur.com/JC7sFjE.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+<img src="https://i.imgur.com/65obSF3.png" width="400px" align="right" alt="">
 
 #### Estudante de Engenharia de Software (bacharelado)
 
