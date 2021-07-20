@@ -1,6 +1,6 @@
 ## Olá, sou Petterson! <img src="https://i.imgur.com/EgZKCOb.png" width="30px" alt="message icon">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/JC7sFjE.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
 
 #### Estudante de Engenharia de Software (bacharelado)
 
@@ -25,7 +25,7 @@
   <img src="https://i.imgur.com/xfC65LZ.png" width="25px" alt="envelope icon"> p.xozenn@gmail.com &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/RBWdJrB.png?1" width="25px" alt="phone icon"> (11) 96788-7157
   <br><br>
    <strong>Veja meu site => &nbsp;&nbsp;</strong>
-  <a href="https://petterson-ferreira.netlify.app/" target="_blank">
+  <a href="https://petterson-ferreira.netlify.app/">
     <img src="https://i.imgur.com/ehkMCxt.png" width="25px" alt="site icon">
   </a>
 </p>  
