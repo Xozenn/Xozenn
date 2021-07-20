@@ -1,4 +1,4 @@
-## Olá, sou Petterson! <img src="https://i.imgur.com/EgZKCOb.png" width="30px" alt="">
+## Olá, sou Petterson! <img src="https://i.imgur.com/EgZKCOb.png" width="30px" alt="message icon">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -13,19 +13,19 @@
 </p>
 
 <p align="left">
-  Linguagens: <img src="https://i.imgur.com/yIHi6Ge.png" width="25px" alt=""> <img src="https://i.imgur.com/W9NmzkE.png" width="25px" alt=""> <img src="https://i.imgur.com/jdiwaWN.png" width="25px" alt="">
+  Linguagens: <img src="https://i.imgur.com/yIHi6Ge.png" width="25px" alt="html icon"> <img src="https://i.imgur.com/W9NmzkE.png" width="25px" alt="css icon"> <img src="https://i.imgur.com/jdiwaWN.png" width="25px" alt="javascript icon">
 </p>
 
 <p align="left">
-  Ferramentas: <img src="https://i.imgur.com/M7F5IPz.png" width="25px"> <img src="https://i.imgur.com/ZarCT9z.png" width="25px"> <br>
+  Ferramentas: <img src="https://i.imgur.com/M7F5IPz.png" width="25px" alt="vscode icon"> <img src="https://i.imgur.com/ZarCT9z.png" width="25px" alt="tux icon"> <br>
   Ocasionalmente utilizo o canva e o figma para editar pequenas coisas.
 </p>
 
 <p align="left">
-  <img src="https://i.imgur.com/xfC65LZ.png" width="25px"> p.xozenn@gmail.com &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/RBWdJrB.png?1" width="25px"> (11) 96788-7157
+  <img src="https://i.imgur.com/xfC65LZ.png" width="25px" alt="envelope icon"> p.xozenn@gmail.com &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/RBWdJrB.png?1" width="25px" alt="phone icon"> (11) 96788-7157
   <br><br>
    <strong>Veja meu site => &nbsp;&nbsp;</strong>
   <a href="https://petterson-ferreira.netlify.app/" target="_blank">
-    <img src="https://i.imgur.com/ehkMCxt.png" width="25px">
+    <img src="https://i.imgur.com/ehkMCxt.png" width="25px" alt="site icon">
   </a>
 </p>  
