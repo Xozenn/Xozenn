@@ -25,7 +25,7 @@
   <img src="https://i.imgur.com/xfC65LZ.png" width="25px"> p.xozenn@gmail.com &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/RBWdJrB.png?1" width="25px"> (11) 96788-7157
   <br><br>
    <strong>Veja meu site => &nbsp;&nbsp;</strong>
-  <a href="https://petterson-ferreira.netlify.app/">
+  <a href="https://petterson-ferreira.netlify.app/" target="_blank">
     <img src="https://i.imgur.com/ehkMCxt.png" width="25px">
   </a>
 </p>  
