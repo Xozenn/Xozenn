@@ -21,8 +21,6 @@
   Ocasionalmente utilizo o canva e o figma para editar pequenas coisas.
 </p>
 
-<p align="left">
-  <img src="https://i.imgur.com/xfC65LZ.png" width="25px" alt="envelope icon"> p.xozenn@gmail.com &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/RBWdJrB.png?1" width="25px" alt="phone icon"> (11) 96788-7157
   <br><br>
    <strong>Veja meu site => &nbsp;&nbsp;</strong>
   <a href="https://petterson-ferreira.netlify.app/">
